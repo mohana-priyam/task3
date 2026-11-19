@@ -1,0 +1,11 @@
+scenario,result,response_time_ms,tools_used
+Document - Company Policy,PASS,150.17,DocumentSearch
+Document - Annual Leave,PASS,13.67,DocumentSearch
+Document - Sales Report,PASS,14.55,DocumentSearch
+Unanswerable - Mars Weather,PASS,8.44,None
+Unanswerable - CEO Favourite Colour,PASS,7.14,None
+CRM - Customer C101,PASS,7.7,CRMTool
+CRM - Customer C102,PASS,8.2,CRMTool
+Order - O101,PASS,6.87,OrderTool
+Order - O102,PASS,8.97,OrderTool
+Email - Formal Draft,PASS,7.57,EmailDraft
